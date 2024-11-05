@@ -2,3 +2,4 @@
 2. Windows command: .\venv\Scripts\activate 
    Linux command: source venv/bin/activate
 3. pip install -r requirements.txt
+4. python main.py
